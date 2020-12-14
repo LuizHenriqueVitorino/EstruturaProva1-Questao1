@@ -5,6 +5,9 @@ package listaEncandeada;
  *
  * Para esta questão, criei toda a estrutura da Lista Encandeada
  * E coloquei este método na Classe apenas para destaca-la. 
+ *
+ * No formulário só se pode adicionar um arquivo, então doloqueo o projeto
+ * no github (https://github.com/LuizHenriqueVitorino/EstruturaProva1-Questao1.git)
  * 
  * @author Luiz Henrique da Silva Vitorino (luiz.henrique.silva60@aluno.ifce.edu.br)
  * 
